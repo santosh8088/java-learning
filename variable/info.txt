@@ -1,0 +1,17 @@
+                                     data type 
+                            
+
+            A                                                  B
+     ---------------                                    -----------------
+        primitive                                        non- primitive  
+    ________________                                    ________________
+
+    byte     1 byte                                      string
+    short    2                                           array
+    char     2                                           class
+    int      4                                           object
+    long     8                                           interface
+    float    4
+    doubble  8
+    boolean  1
+    

@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "variable.function.factorial",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "problem2",
+            "request": "launch",
+            "mainClass": "variable.function.problem2",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "variable.function.sample",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "first2",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.Advancepattern.first2",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "first1",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.Advancepattern.first1",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "calculater2",
+            "request": "launch",
+            "mainClass": "variable.condition.calculater2",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "calculater",
+            "request": "launch",
+            "mainClass": "variable.condition.calculater",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "operator1",
+            "request": "launch",
+            "mainClass": "variable.condition.samplecode.operator1",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "code2",
+            "request": "launch",
+            "mainClass": "variable.condition.samplecode.code2",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "first1",
+            "request": "launch",
+            "mainClass": "variable.condition.samplecode.first1",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "if1",
+            "request": "launch",
+            "mainClass": "if1",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern10",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern10",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern8",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern8",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern7",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "for1",
+            "request": "launch",
+            "mainClass": "variable.condition.for1",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "Basic_pattern",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.Basic_pattern",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern2",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern3",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern4",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern5",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "variable.condition.pattern.pattern6",
+            "projectName": "java_learning_4726b46a"
+        },
+        {
+            "type": "java",
+            "name": "primitive",
+            "request": "launch",
+            "mainClass": "variable.primitive",
+            "projectName": "java_learning_4726b46a"
+        }
+    ]
+}
